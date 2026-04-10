@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-10T16:38:48",
-  "unix_time": 1775853528.544894,
+  "timestamp": "2026-04-10T16:39:04",
+  "unix_time": 1775853544.803891,
   "configured_channels": [
     "A",
     "B",
@@ -29,12 +29,12 @@
     "C": 0.0,
     "D": 295.829,
     "D1": 295.829,
-    "D2": 296.247,
+    "D2": 296.246,
     "D3": 296.075,
     "D4": 0.0,
     "D5": 0.0
   },
-  "flow": 0.0,
+  "flow": null,
   "outputs": {
     "output_1": {
       "setpoint": 5.0,
@@ -61,5 +61,7 @@
       "heat_percent": 0.0
     }
   },
-  "errors": []
+  "errors": [
+    "flow_read_failed: could not open port 'COM8': PermissionError(13, 'Access is denied.', None, 5)"
+  ]
 }
