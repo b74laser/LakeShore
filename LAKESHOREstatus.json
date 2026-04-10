@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T16:38:48",
+  "timestamp": "2026-04-10T16:39:04",
   "configured_channels": [
     "A",
     "B",
@@ -39,7 +39,7 @@
     "C": 0.0,
     "D": 295.829,
     "D1": 295.829,
-    "D2": 296.247,
+    "D2": 296.246,
     "D3": 296.075,
     "D4": 0.0,
     "D5": 0.0
@@ -70,8 +70,8 @@
       "heat_percent": 0.0
     }
   },
-  "flow": 0.0,
-  "last_error": "",
+  "flow": null,
+  "last_error": "flow_read_failed: could not open port 'COM8': PermissionError(13, 'Access is denied.', None, 5)",
   "live_plotting": true,
   "github_sync_enabled": true
 }
