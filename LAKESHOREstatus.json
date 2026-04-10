@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-04-10T16:38:31",
+  "configured_channels": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5"
+  ],
+  "channel_labels": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D",
+    "D1": "D1",
+    "D2": "D2",
+    "D3": "D3",
+    "D4": "D4",
+    "D5": "D5"
+  },
+  "active_channels": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5"
+  ],
+  "temperatures": {
+    "A": 296.445,
+    "B": 295.052,
+    "C": 0.0,
+    "D": 295.829,
+    "D1": 295.829,
+    "D2": 296.246,
+    "D3": 296.075,
+    "D4": 0.0,
+    "D5": 0.0
+  },
+  "outputs": {
+    "output_1": {
+      "setpoint": 5.0,
+      "range": 0,
+      "mode_raw": "1,1,0",
+      "heat_percent": 0.0
+    },
+    "output_2": {
+      "setpoint": 300.0,
+      "range": 0,
+      "mode_raw": "1,2,0",
+      "heat_percent": 0.0
+    },
+    "output_3": {
+      "setpoint": 0.0,
+      "range": 0,
+      "mode_raw": "0,0,0",
+      "heat_percent": 0.0
+    },
+    "output_4": {
+      "setpoint": 0.0,
+      "range": 0,
+      "mode_raw": "0,0,0",
+      "heat_percent": 0.0
+    }
+  },
+  "flow": 0.0,
+  "last_error": "",
+  "live_plotting": true,
+  "github_sync_enabled": true
+}
