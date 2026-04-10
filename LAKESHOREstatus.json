@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T16:40:08",
+  "timestamp": "2026-04-10T16:40:22",
   "configured_channels": [
     "A",
     "B",
@@ -70,8 +70,8 @@
       "heat_percent": 0.0
     }
   },
-  "flow": null,
-  "last_error": "flow_read_failed: could not open port 'COM8': PermissionError(13, 'Access is denied.', None, 5)",
+  "flow": 0.0,
+  "last_error": "",
   "live_plotting": true,
   "github_sync_enabled": true
 }
