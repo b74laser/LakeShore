@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T17:58:14",
+  "timestamp": "2026-04-10T17:58:30",
   "configured_channels": [
     "A",
     "B",
@@ -34,11 +34,11 @@
     "D5"
   ],
   "temperatures": {
-    "A": 296.326,
+    "A": 296.325,
     "B": 295.017,
     "C": 0.0,
-    "D": 295.837,
-    "D1": 295.837,
+    "D": 295.838,
+    "D1": 295.838,
     "D2": 296.254,
     "D3": 296.081,
     "D4": 0.0,
@@ -70,7 +70,7 @@
       "heat_percent": 0.0
     }
   },
-  "flow": 0.0,
+  "flow": 0.02,
   "last_error": "",
   "live_plotting": false,
   "github_sync_enabled": true
