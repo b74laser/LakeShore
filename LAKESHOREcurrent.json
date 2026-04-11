@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-11T07:20:18",
-  "unix_time": 1775906418.47439,
+  "timestamp": "2026-04-11T07:20:34",
+  "unix_time": 1775906434.470435,
   "configured_channels": [
     "A",
     "B",
@@ -34,7 +34,7 @@
     "D4": 0.0,
     "D5": 0.0
   },
-  "flow": 0.0,
+  "flow": null,
   "outputs": {
     "output_1": {
       "setpoint": 5.0,
@@ -62,6 +62,6 @@
     }
   },
   "errors": [
-    "base_read_failed: Command Error: Invalid Command or Query"
+    "flow_read_failed: could not open port 'COM8': PermissionError(13, 'Access is denied.', None, 5)"
   ]
 }
