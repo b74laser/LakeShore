@@ -18030,6 +18030,41 @@
         0.0,
         0.0
       ]
+    },
+    "2026-04-11": {
+      "TIME": [
+        0.0031
+      ],
+      "FLOW": [
+        0.0
+      ],
+      "TEMPERATURE A": [
+        296.073
+      ],
+      "TEMPERATURE B": [
+        295.014
+      ],
+      "TEMPERATURE C": [
+        0.0
+      ],
+      "TEMPERATURE D": [
+        295.859
+      ],
+      "TEMPERATURE D1": [
+        295.859
+      ],
+      "TEMPERATURE D2": [
+        296.287
+      ],
+      "TEMPERATURE D3": [
+        296.092
+      ],
+      "TEMPERATURE D4": [
+        0.0
+      ],
+      "TEMPERATURE D5": [
+        0.0
+      ]
     }
   }
 }
