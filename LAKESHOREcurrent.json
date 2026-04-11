@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-11T07:07:01",
-  "unix_time": 1775905621.557335,
+  "timestamp": "2026-04-11T07:07:17",
+  "unix_time": 1775905637.595743,
   "configured_channels": [
     "A",
     "B",
@@ -24,42 +24,21 @@
     "D5": "D5"
   },
   "temperatures": {
-    "A": 296.098,
-    "B": 294.999,
-    "C": 0.0,
-    "D": 295.851,
-    "D1": 295.851,
-    "D2": 296.278,
-    "D3": 296.092,
-    "D4": 0.0,
-    "D5": 0.0
+    "A": null,
+    "B": null,
+    "C": null,
+    "D": null,
+    "D1": null,
+    "D2": null,
+    "D3": null,
+    "D4": null,
+    "D5": null
   },
-  "flow": 0.0,
-  "outputs": {
-    "output_1": {
-      "setpoint": 5.0,
-      "range": 0,
-      "mode_raw": "1,1,0",
-      "heat_percent": 0.0
-    },
-    "output_2": {
-      "setpoint": 300.0,
-      "range": 0,
-      "mode_raw": "1,2,0",
-      "heat_percent": 0.0
-    },
-    "output_3": {
-      "setpoint": 0.0,
-      "range": 0,
-      "mode_raw": "0,0,0",
-      "heat_percent": 0.0
-    },
-    "output_4": {
-      "setpoint": 0.0,
-      "range": 0,
-      "mode_raw": "0,0,0",
-      "heat_percent": 0.0
-    }
-  },
-  "errors": []
+  "flow": null,
+  "outputs": {},
+  "errors": [
+    "instrument_connect_or_read_failed: could not open port 'COM6': PermissionError(13, 'Access is denied.', None, 5)",
+    "flow_read_failed: could not open port 'COM8': PermissionError(13, 'Access is denied.', None, 5)",
+    "no_temperature_channels_read"
+  ]
 }
