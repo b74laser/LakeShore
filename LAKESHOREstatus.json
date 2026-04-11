@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T11:24:12",
+  "timestamp": "2026-04-11T11:24:28",
   "configured_channels": [
     "A",
     "B",
@@ -37,8 +37,8 @@
     "A": 296.18,
     "B": 294.999,
     "C": 0.0,
-    "D": 295.836,
-    "D1": 295.836,
+    "D": 295.835,
+    "D1": 295.835,
     "D2": 296.273,
     "D3": 296.066,
     "D4": 0.0,
@@ -70,7 +70,7 @@
       "heat_percent": 0.0
     }
   },
-  "flow": 0.02,
+  "flow": 0.0,
   "last_error": "",
   "live_plotting": false,
   "github_sync_enabled": true
