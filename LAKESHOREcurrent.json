@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-11T07:21:36",
-  "unix_time": 1775906496.420819,
+  "timestamp": "2026-04-11T07:21:52",
+  "unix_time": 1775906512.340638,
   "configured_channels": [
     "A",
     "B",
@@ -24,8 +24,8 @@
     "D5": "D5"
   },
   "temperatures": {
-    "A": 296.089,
-    "B": 294.999,
+    "A": 296.088,
+    "B": 295.0,
     "C": 0.0,
     "D": 295.851,
     "D1": 295.851,
@@ -61,5 +61,7 @@
       "heat_percent": 0.0
     }
   },
-  "errors": []
+  "errors": [
+    "base_read_failed: Command Error: Invalid Command or Query"
+  ]
 }
