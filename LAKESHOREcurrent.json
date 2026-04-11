@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-11T08:14:33",
-  "unix_time": 1775909673.11953,
+  "timestamp": "2026-04-11T08:14:49",
+  "unix_time": 1775909689.036391,
   "configured_channels": [
     "A",
     "B",
@@ -61,5 +61,7 @@
       "heat_percent": 0.0
     }
   },
-  "errors": []
+  "errors": [
+    "base_read_failed: Command Error: Invalid Command or Query"
+  ]
 }
