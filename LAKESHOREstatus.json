@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T07:20:18",
+  "timestamp": "2026-04-11T07:20:34",
   "configured_channels": [
     "A",
     "B",
@@ -70,8 +70,8 @@
       "heat_percent": 0.0
     }
   },
-  "flow": 0.0,
-  "last_error": "base_read_failed: Command Error: Invalid Command or Query",
+  "flow": null,
+  "last_error": "flow_read_failed: could not open port 'COM8': PermissionError(13, 'Access is denied.', None, 5)",
   "live_plotting": false,
   "github_sync_enabled": true
 }
