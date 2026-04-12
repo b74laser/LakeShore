@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-12T13:01:46",
-  "unix_time": 1776013306.297079,
+  "timestamp": "2026-04-12T13:02:02",
+  "unix_time": 1776013322.349074,
   "configured_channels": [
     "A",
     "B",
@@ -34,7 +34,7 @@
     "D4": 0.0,
     "D5": 0.0
   },
-  "flow": 0.0,
+  "flow": 0.02,
   "outputs": {
     "output_1": {
       "setpoint": 5.0,
