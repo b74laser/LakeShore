@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T15:36:57",
+  "timestamp": "2026-04-13T15:37:13",
   "configured_channels": [
     "A",
     "B",
@@ -34,7 +34,7 @@
     "D5"
   ],
   "temperatures": {
-    "A": 295.905,
+    "A": 295.904,
     "B": 295.056,
     "C": 0.0,
     "D": 295.769,
@@ -71,7 +71,7 @@
     }
   },
   "flow": 0.0,
-  "last_error": "",
+  "last_error": "github_sync_failed: Invalid request.\n\n\"sha\" wasn't supplied.: 422 {\"message\": \"Invalid request.\\n\\n\\\"sha\\\" wasn't supplied.\", \"documentation_url\": \"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\", \"status\": \"422\"}",
   "live_plotting": false,
   "github_sync_enabled": true
 }
