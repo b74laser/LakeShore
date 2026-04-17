@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T00:47:15",
+  "timestamp": "2026-04-17T00:47:33",
   "configured_channels": [
     "A",
     "B",
@@ -71,7 +71,7 @@
     }
   },
   "flow": 0.0,
-  "last_error": "base_read_failed: Command Error: Invalid Command or Query",
+  "last_error": "",
   "live_plotting": false,
   "github_sync_enabled": true
 }
