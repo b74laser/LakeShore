@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-23T15:58:31",
-  "unix_time": 1776974311.357183,
+  "timestamp": "2026-04-23T15:58:49",
+  "unix_time": 1776974329.517624,
   "configured_channels": [
     "A",
     "B",
@@ -24,23 +24,23 @@
     "D5": "D5"
   },
   "temperatures": {
-    "A": 400.083,
+    "A": 400.04,
     "B": 295.161,
     "C": 0.0,
     "D": 295.729,
     "D1": 295.729,
     "D2": 296.142,
-    "D3": 295.986,
+    "D3": 295.985,
     "D4": 0.0,
     "D5": 0.0
   },
-  "flow": 0.0,
+  "flow": 0.02,
   "outputs": {
     "output_1": {
       "setpoint": 400.0,
       "range": 2,
       "mode_raw": "1,1,0",
-      "heat_percent": 55.5
+      "heat_percent": 55.6
     },
     "output_2": {
       "setpoint": 300.0,
