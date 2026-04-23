@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-23T15:56:20",
-  "unix_time": 1776974180.363008,
+  "timestamp": "2026-04-23T15:56:38",
+  "unix_time": 1776974198.403113,
   "configured_channels": [
     "A",
     "B",
@@ -24,7 +24,7 @@
     "D5": "D5"
   },
   "temperatures": {
-    "A": 400.052,
+    "A": 400.135,
     "B": 295.161,
     "C": 0.0,
     "D": 295.728,
@@ -40,7 +40,7 @@
       "setpoint": 400.0,
       "range": 2,
       "mode_raw": "1,1,0",
-      "heat_percent": 59.1
+      "heat_percent": 58.1
     },
     "output_2": {
       "setpoint": 300.0,
