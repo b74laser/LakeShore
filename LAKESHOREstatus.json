@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T01:51:43",
+  "timestamp": "2026-04-23T01:52:02",
   "configured_channels": [
     "A",
     "B",
@@ -70,7 +70,7 @@
       "heat_percent": 0.0
     }
   },
-  "flow": 0.0,
+  "flow": 0.02,
   "last_error": "",
   "live_plotting": false,
   "github_sync_enabled": true
