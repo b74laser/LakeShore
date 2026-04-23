@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-23T16:08:02",
-  "unix_time": 1776974882.430633,
+  "timestamp": "2026-04-23T16:08:19",
+  "unix_time": 1776974899.47659,
   "configured_channels": [
     "A",
     "B",
@@ -25,7 +25,7 @@
   },
   "temperatures": {
     "A": 400.033,
-    "B": 295.16,
+    "B": 295.159,
     "C": 0.0,
     "D": 295.73,
     "D1": 295.73,
@@ -54,7 +54,7 @@
       "powerup_enable": 0,
       "mode_name": "Closed Loop PID",
       "input_name": "A",
-      "heat_percent": 53.2
+      "heat_percent": 53.1
     },
     "output_2": {
       "setpoint": 300.0,
