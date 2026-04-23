@@ -1,110 +1,30 @@
 {
-  "timestamp": "2026-04-23T16:11:08",
-  "configured_channels": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "D1",
-    "D2",
-    "D3",
-    "D4",
-    "D5"
-  ],
-  "channel_labels": {
-    "A": "A",
-    "B": "B",
-    "C": "C",
-    "D": "D",
-    "D1": "D1",
-    "D2": "D2",
-    "D3": "D3",
-    "D4": "D4",
-    "D5": "D5"
-  },
-  "active_channels": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "D1",
-    "D2",
-    "D3",
-    "D4",
-    "D5"
-  ],
+  "timestamp": "2026-04-23T16:30:50",
+  "flow": 0.0,
   "temperatures": {
-    "A": 400.027,
-    "B": 295.159,
+    "A": 400.015,
+    "B": 295.149,
     "C": 0.0,
-    "D": 295.73,
-    "D1": 295.73,
-    "D2": 296.144,
-    "D3": 295.987,
+    "D": 295.733,
+    "D1": 295.733,
+    "D2": 296.148,
+    "D3": 295.989,
     "D4": 0.0,
     "D5": 0.0
   },
-  "heater_file_path": "Z:\\DABL_LOGS\\LAKESHORE\\HEATER.txt",
-  "heater_requests": {
+  "heater": {
     "A": {
-      "setpoint": 400.0,
-      "heat_range": 2,
-      "output": 1
+      "SETPOINT": 400.0,
+      "RANGE": 2,
+      "PERCENT": 48.4,
+      "INPUT": "A"
+    },
+    "B": {
+      "SETPOINT": 300.0,
+      "RANGE": 0,
+      "PERCENT": 0.0,
+      "INPUT": "B"
     }
   },
-  "control_updates": [],
-  "logged_outputs": [
-    1,
-    2
-  ],
-  "outputs": {
-    "output_1": {
-      "setpoint": 400.0,
-      "range": 2,
-      "mode_raw": "1,1,0",
-      "mode_index": 1,
-      "input_index": 1,
-      "powerup_enable": 0,
-      "mode_name": "Closed Loop PID",
-      "input_name": "A",
-      "heat_percent": 52.4
-    },
-    "output_2": {
-      "setpoint": 300.0,
-      "range": 0,
-      "mode_raw": "1,2,0",
-      "mode_index": 1,
-      "input_index": 2,
-      "powerup_enable": 0,
-      "mode_name": "Closed Loop PID",
-      "input_name": "B",
-      "heat_percent": 0.0
-    },
-    "output_3": {
-      "setpoint": 0.0,
-      "range": 0,
-      "mode_raw": "0,0,0",
-      "mode_index": 0,
-      "input_index": 0,
-      "powerup_enable": 0,
-      "mode_name": "Off",
-      "input_name": "None",
-      "heat_percent": 0.0
-    },
-    "output_4": {
-      "setpoint": 0.0,
-      "range": 0,
-      "mode_raw": "0,0,0",
-      "mode_index": 0,
-      "input_index": 0,
-      "powerup_enable": 0,
-      "mode_name": "Off",
-      "input_name": "None",
-      "heat_percent": 0.0
-    }
-  },
-  "flow": 0.0,
-  "last_error": "",
-  "live_plotting": true,
-  "github_sync_enabled": true
+  "last_error": ""
 }
