@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T15:54:46",
+  "timestamp": "2026-04-23T15:55:05",
   "configured_channels": [
     "A",
     "B",
@@ -34,7 +34,7 @@
     "D5"
   ],
   "temperatures": {
-    "A": 399.588,
+    "A": 399.584,
     "B": 295.161,
     "C": 0.0,
     "D": 295.728,
@@ -49,7 +49,7 @@
       "setpoint": 400.0,
       "range": 2,
       "mode_raw": "1,1,0",
-      "heat_percent": 59.4
+      "heat_percent": 60.6
     },
     "output_2": {
       "setpoint": 300.0,
