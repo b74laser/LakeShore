@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-23T16:04:04",
-  "unix_time": 1776974644.114955,
+  "timestamp": "2026-04-23T16:04:21",
+  "unix_time": 1776974661.048069,
   "configured_channels": [
     "A",
     "B",
@@ -24,8 +24,8 @@
     "D5": "D5"
   },
   "temperatures": {
-    "A": 400.033,
-    "B": 295.161,
+    "A": 400.029,
+    "B": 295.16,
     "C": 0.0,
     "D": 295.729,
     "D1": 295.729,
@@ -34,7 +34,7 @@
     "D4": 0.0,
     "D5": 0.0
   },
-  "flow": 0.02,
+  "flow": 0.0,
   "heater_file_path": "Z:\\DABL_LOGS\\LAKESHORE\\HEATER.txt",
   "heater_requests": {
     "A": {
