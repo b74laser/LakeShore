@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-23T16:03:44",
-  "unix_time": 1776974624.60998,
+  "timestamp": "2026-04-23T16:04:04",
+  "unix_time": 1776974644.114955,
   "configured_channels": [
     "A",
     "B",
@@ -24,7 +24,7 @@
     "D5": "D5"
   },
   "temperatures": {
-    "A": 400.038,
+    "A": 400.033,
     "B": 295.161,
     "C": 0.0,
     "D": 295.729,
@@ -34,7 +34,7 @@
     "D4": 0.0,
     "D5": 0.0
   },
-  "flow": 0.0,
+  "flow": 0.02,
   "heater_file_path": "Z:\\DABL_LOGS\\LAKESHORE\\HEATER.txt",
   "heater_requests": {
     "A": {
@@ -54,7 +54,7 @@
       "powerup_enable": 0,
       "mode_name": "Closed Loop PID",
       "input_name": "A",
-      "heat_percent": 54.5
+      "heat_percent": 54.4
     },
     "output_2": {
       "setpoint": 300.0,
