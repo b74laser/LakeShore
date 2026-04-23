@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-23T16:10:00",
-  "unix_time": 1776975000.725939,
+  "timestamp": "2026-04-23T16:10:17",
+  "unix_time": 1776975017.729842,
   "configured_channels": [
     "A",
     "B",
@@ -24,13 +24,13 @@
     "D5": "D5"
   },
   "temperatures": {
-    "A": 400.028,
+    "A": 400.027,
     "B": 295.159,
     "C": 0.0,
     "D": 295.73,
     "D1": 295.73,
     "D2": 296.144,
-    "D3": 295.986,
+    "D3": 295.987,
     "D4": 0.0,
     "D5": 0.0
   },
@@ -54,7 +54,7 @@
       "powerup_enable": 0,
       "mode_name": "Closed Loop PID",
       "input_name": "A",
-      "heat_percent": 52.7
+      "heat_percent": 52.6
     },
     "output_2": {
       "setpoint": 300.0,
