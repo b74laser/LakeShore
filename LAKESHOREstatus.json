@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T16:10:51",
+  "timestamp": "2026-04-23T16:11:08",
   "configured_channels": [
     "A",
     "B",
@@ -67,7 +67,7 @@
       "powerup_enable": 0,
       "mode_name": "Closed Loop PID",
       "input_name": "A",
-      "heat_percent": 52.5
+      "heat_percent": 52.4
     },
     "output_2": {
       "setpoint": 300.0,
