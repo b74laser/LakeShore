@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-24T06:55:54",
-  "unix_time": 1777028154.99423,
+  "timestamp": "2026-04-24T06:57:02",
+  "unix_time": 1777028222.025627,
   "flow": 0.0,
   "temperatures": {
     "A": 390.004,
@@ -17,7 +17,7 @@
     "A": {
       "SETPOINT": 390.0,
       "RANGE": 2,
-      "PERCENT": 42.5,
+      "PERCENT": 42.4,
       "INPUT": "A"
     },
     "B": {
