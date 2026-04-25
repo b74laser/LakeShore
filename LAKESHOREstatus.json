@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T03:35:16",
+  "timestamp": "2026-04-25T03:36:23",
   "flow": 0.0,
   "temperatures": {
     "A": 310.002,
@@ -16,7 +16,7 @@
     "A": {
       "SETPOINT": 310.0,
       "RANGE": 2,
-      "PERCENT": 15.1,
+      "PERCENT": 15.0,
       "INPUT": "A"
     },
     "B": {
