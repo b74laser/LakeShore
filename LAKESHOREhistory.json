@@ -51654,69 +51654,86 @@
   "2026-04-26": {
     "TIME": [
       0.0061,
-      0.0247
+      0.0247,
+      0.0433
     ],
     "FLOW": [
       0.02,
+      0.0,
       0.0
     ],
     "TEMPERATURE A": [
       299.201,
-      299.169
+      299.169,
+      299.138
     ],
     "TEMPERATURE B": [
       294.969,
-      294.969
+      294.969,
+      294.968
     ],
     "TEMPERATURE C": [
+      0.0,
       0.0,
       0.0
     ],
     "TEMPERATURE D": [
       295.869,
+      295.869,
       295.869
     ],
     "TEMPERATURE D1": [
+      295.869,
       295.869,
       295.869
     ],
     "TEMPERATURE D2": [
       296.293,
+      296.293,
       296.293
     ],
     "TEMPERATURE D3": [
+      296.117,
       296.117,
       296.117
     ],
     "TEMPERATURE D4": [
       0.0,
+      0.0,
       0.0
     ],
     "TEMPERATURE D5": [
+      0.0,
       0.0,
       0.0
     ],
     "HEATER A SETPOINT": [
       295.0,
+      295.0,
       295.0
     ],
     "HEATER A RANGE": [
+      2,
       2,
       2
     ],
     "HEATER A PERCENT": [
       0.0,
+      0.0,
       0.0
     ],
     "HEATER B SETPOINT": [
+      300.0,
       300.0,
       300.0
     ],
     "HEATER B RANGE": [
       0,
+      0,
       0
     ],
     "HEATER B PERCENT": [
+      0.0,
       0.0,
       0.0
     ]
