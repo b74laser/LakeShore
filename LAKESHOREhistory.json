@@ -96491,7 +96491,8 @@
       19.8425,
       19.8608,
       19.8794,
-      19.8981
+      19.8981,
+      19.9167
     ],
     "FLOW": [
       0.0,
@@ -97553,6 +97554,7 @@
       0.0,
       0.0,
       0.0,
+      0.0,
       0.0
     ],
     "TEMPERATURE A": [
@@ -98404,6 +98406,7 @@
       295.487,
       295.487,
       295.487,
+      null,
       null,
       null,
       null,
@@ -99677,6 +99680,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE C": [
@@ -100528,6 +100532,7 @@
       0.0,
       0.0,
       0.0,
+      null,
       null,
       null,
       null,
@@ -101801,6 +101806,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D1": [
@@ -102652,6 +102658,7 @@
       295.836,
       295.836,
       295.835,
+      null,
       null,
       null,
       null,
@@ -103925,6 +103932,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D3": [
@@ -104776,6 +104784,7 @@
       296.077,
       296.075,
       296.074,
+      null,
       null,
       null,
       null,
@@ -106049,6 +106058,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D5": [
@@ -106900,6 +106910,7 @@
       0.0,
       0.0,
       0.0,
+      null,
       null,
       null,
       null,
@@ -108173,6 +108184,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "HEATER A RANGE": [
@@ -109024,6 +109036,7 @@
       2,
       2,
       2,
+      null,
       null,
       null,
       null,
@@ -110297,6 +110310,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "HEATER B SETPOINT": [
@@ -111148,6 +111162,7 @@
       300.0,
       300.0,
       300.0,
+      null,
       null,
       null,
       null,
@@ -112421,6 +112436,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "HEATER B PERCENT": [
@@ -113272,6 +113288,7 @@
       0.0,
       0.0,
       0.0,
+      null,
       null,
       null,
       null,
