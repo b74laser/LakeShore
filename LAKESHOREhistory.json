@@ -139163,9 +139163,11 @@
       0.325,
       0.3436,
       0.3622,
-      0.3808
+      0.3808,
+      0.3994
     ],
     "FLOW": [
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -139209,9 +139211,11 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE B": [
+      null,
       null,
       null,
       null,
@@ -139255,9 +139259,11 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D": [
+      null,
       null,
       null,
       null,
@@ -139301,9 +139307,11 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D2": [
+      null,
       null,
       null,
       null,
@@ -139347,9 +139355,11 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D4": [
+      null,
       null,
       null,
       null,
@@ -139393,9 +139403,11 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "HEATER A SETPOINT": [
+      null,
       null,
       null,
       null,
@@ -139439,9 +139451,11 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "HEATER A PERCENT": [
+      null,
       null,
       null,
       null,
@@ -139485,6 +139499,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "HEATER B RANGE": [
@@ -139508,9 +139523,11 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "HEATER B PERCENT": [
+      null,
       null,
       null,
       null,
