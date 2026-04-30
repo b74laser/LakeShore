@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-04-30T05:05:48",
-  "unix_time": 1777539948.747982,
-  "flow": 0.0,
+  "timestamp": "2026-04-30T05:06:55",
+  "unix_time": 1777540015.775083,
+  "flow": 0.02,
   "temperatures": {
     "A": null,
     "B": null,
