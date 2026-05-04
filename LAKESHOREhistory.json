@@ -227667,7 +227667,8 @@
       14.2861,
       14.3047,
       14.3236,
-      14.3425
+      14.3425,
+      14.3611
     ],
     "FLOW": [
       0.0,
@@ -228428,6 +228429,7 @@
       0.0,
       0.0,
       0.02,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -229197,7 +229199,8 @@
       null,
       null,
       null,
-      294.194
+      294.194,
+      294.196
     ],
     "TEMPERATURE B": [
       null,
@@ -229962,7 +229965,8 @@
       null,
       null,
       null,
-      294.445
+      294.445,
+      294.443
     ],
     "TEMPERATURE C": [
       null,
@@ -230727,6 +230731,7 @@
       null,
       null,
       null,
+      0.0,
       0.0
     ],
     "TEMPERATURE D": [
@@ -231492,7 +231497,8 @@
       null,
       null,
       null,
-      294.363
+      294.363,
+      294.359
     ],
     "TEMPERATURE D1": [
       null,
@@ -232257,7 +232263,8 @@
       null,
       null,
       null,
-      294.363
+      294.363,
+      294.359
     ],
     "TEMPERATURE D2": [
       null,
@@ -233022,7 +233029,8 @@
       null,
       null,
       null,
-      294.728
+      294.728,
+      294.722
     ],
     "TEMPERATURE D3": [
       null,
@@ -233787,7 +233795,8 @@
       null,
       null,
       null,
-      294.572
+      294.572,
+      294.564
     ],
     "TEMPERATURE D4": [
       null,
@@ -234552,6 +234561,7 @@
       null,
       null,
       null,
+      0.0,
       0.0
     ],
     "TEMPERATURE D5": [
@@ -235317,6 +235327,7 @@
       null,
       null,
       null,
+      0.0,
       0.0
     ],
     "HEATER A SETPOINT": [
@@ -236082,6 +236093,7 @@
       null,
       null,
       null,
+      295.0,
       295.0
     ],
     "HEATER A RANGE": [
@@ -236847,6 +236859,7 @@
       null,
       null,
       null,
+      0,
       0
     ],
     "HEATER A PERCENT": [
@@ -237612,6 +237625,7 @@
       null,
       null,
       null,
+      0.0,
       0.0
     ],
     "HEATER B SETPOINT": [
@@ -238377,6 +238391,7 @@
       null,
       null,
       null,
+      300.0,
       300.0
     ],
     "HEATER B RANGE": [
@@ -239142,6 +239157,7 @@
       null,
       null,
       null,
+      0,
       0
     ],
     "HEATER B PERCENT": [
@@ -239907,6 +239923,7 @@
       null,
       null,
       null,
+      0.0,
       0.0
     ]
   }
