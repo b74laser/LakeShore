@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-05-06T17:08:19",
-  "flow": 9.52,
+  "timestamp": "2026-05-06T17:09:28",
+  "flow": 9.33,
   "temperatures": {
-    "A": 295.077,
-    "B": 299.071,
-    "C": 5.1749,
-    "D": 31.6461,
-    "D1": 31.6461,
-    "D2": 5.3436,
-    "D3": 34.0613,
+    "A": 295.088,
+    "B": 299.073,
+    "C": 5.0641,
+    "D": 31.6317,
+    "D1": 31.6317,
+    "D2": 5.3077,
+    "D3": 33.9865,
     "D4": 0.0,
     "D5": 0.0
   },
   "heater": {
     "A": {
-      "SETPOINT": 295.0,
+      "SETPOINT": 4.0,
       "RANGE": 3,
-      "PERCENT": 83.0,
+      "PERCENT": 82.0,
       "INPUT": "A"
     },
     "B": {
@@ -26,5 +26,5 @@
       "INPUT": "B"
     }
   },
-  "last_error": "invalid_heater_file: Expecting ',' delimiter: line 3 column 1 (char 43)"
+  "last_error": ""
 }
