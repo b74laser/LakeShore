@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-05-15T08:42:58",
-  "flow": 1.86,
+  "timestamp": "2026-05-15T08:44:06",
+  "flow": 1.84,
   "temperatures": {
     "A": 290.0,
-    "B": 295.057,
-    "C": 0.0,
-    "D": 41.0239,
-    "D1": 41.0239,
-    "D2": 5.7185,
-    "D3": 29.885,
+    "B": 295.056,
+    "C": 502.44,
+    "D": 41.0289,
+    "D1": 41.0289,
+    "D2": 5.7192,
+    "D3": 29.8604,
     "D4": 0.0,
     "D5": 0.0
   },
@@ -16,7 +16,7 @@
     "A": {
       "SETPOINT": 290.0,
       "RANGE": 3,
-      "PERCENT": 29.5,
+      "PERCENT": 29.4,
       "INPUT": "A"
     },
     "B": {
@@ -26,5 +26,5 @@
       "INPUT": "B"
     }
   },
-  "last_error": ""
+  "last_error": "github_sync_failed: Invalid request.\n\n\"sha\" wasn't supplied.: 422 {\"message\": \"Invalid request.\\n\\n\\\"sha\\\" wasn't supplied.\", \"documentation_url\": \"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\", \"status\": \"422\"}"
 }
