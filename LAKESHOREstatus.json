@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-06-10T11:57:11",
-  "flow": 10.64,
+  "timestamp": "2026-06-10T11:58:25",
+  "flow": 10.54,
   "temperatures": {
-    "A": 5.2772,
-    "B": 294.912,
-    "C": 5.1784,
-    "D": 30.646,
-    "D1": 30.6481,
-    "D2": 5.5523,
-    "D3": 34.3331,
+    "A": 5.2766,
+    "B": 294.911,
+    "C": 5.1772,
+    "D": 30.6534,
+    "D1": 30.6534,
+    "D2": 5.5511,
+    "D3": 34.3306,
     "D4": 0.0,
     "D5": 0.0
   },
@@ -26,5 +26,5 @@
       "INPUT": "B"
     }
   },
-  "last_error": "github_sync_failed: Requires authentication: 401 {\"message\": \"Requires authentication\", \"documentation_url\": \"https://docs.github.com/rest\", \"status\": \"401\"}"
+  "last_error": ""
 }
