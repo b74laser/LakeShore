@@ -1168246,5 +1168246,58 @@
       0.0,
       0.0
     ]
+  },
+  "2026-06-17": {
+    "TIME": [
+      0.0111
+    ],
+    "FLOW": [
+      0.02
+    ],
+    "TEMPERATURE A": [
+      295.656
+    ],
+    "TEMPERATURE B": [
+      294.882
+    ],
+    "TEMPERATURE C": [
+      296.146
+    ],
+    "TEMPERATURE D": [
+      295.866
+    ],
+    "TEMPERATURE D1": [
+      295.866
+    ],
+    "TEMPERATURE D2": [
+      296.31
+    ],
+    "TEMPERATURE D3": [
+      296.11
+    ],
+    "TEMPERATURE D4": [
+      0.0
+    ],
+    "TEMPERATURE D5": [
+      0.0
+    ],
+    "HEATER A SETPOINT": [
+      350.0
+    ],
+    "HEATER A RANGE": [
+      0
+    ],
+    "HEATER A PERCENT": [
+      0.0
+    ],
+    "HEATER B SETPOINT": [
+      300.0
+    ],
+    "HEATER B RANGE": [
+      0
+    ],
+    "HEATER B PERCENT": [
+      0.0
+    ]
   }
 }
