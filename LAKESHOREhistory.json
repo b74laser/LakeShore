@@ -1190018,7 +1190018,8 @@
       14.6181,
       14.6372,
       14.6567,
-      14.6772
+      14.6772,
+      14.6967
     ],
     "FLOW": [
       0.0,
@@ -1190774,6 +1190775,7 @@
       0.0,
       0.0,
       0.02,
+      0.0,
       0.0,
       0.0,
       0.0
@@ -1191534,6 +1191536,7 @@
       295.64,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE B": [
@@ -1192290,6 +1192293,7 @@
       295.008,
       295.013,
       295.022,
+      null,
       null,
       null,
       null
@@ -1193050,6 +1193054,7 @@
       296.204,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D": [
@@ -1193806,6 +1193811,7 @@
       295.909,
       295.909,
       295.91,
+      null,
       null,
       null,
       null
@@ -1194566,6 +1194572,7 @@
       295.91,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D2": [
@@ -1195322,6 +1195329,7 @@
       296.333,
       296.333,
       296.336,
+      null,
       null,
       null,
       null
@@ -1196082,6 +1196090,7 @@
       296.167,
       null,
       null,
+      null,
       null
     ],
     "TEMPERATURE D4": [
@@ -1196838,6 +1196847,7 @@
       0.0,
       0.0,
       0.0,
+      null,
       null,
       null,
       null
@@ -1197598,6 +1197608,7 @@
       0.0,
       null,
       null,
+      null,
       null
     ],
     "HEATER A SETPOINT": [
@@ -1198354,6 +1198365,7 @@
       350.0,
       350.0,
       350.0,
+      null,
       null,
       null,
       null
@@ -1199114,6 +1199126,7 @@
       0,
       null,
       null,
+      null,
       null
     ],
     "HEATER A PERCENT": [
@@ -1199870,6 +1199883,7 @@
       0.0,
       0.0,
       0.0,
+      null,
       null,
       null,
       null
@@ -1200630,6 +1200644,7 @@
       300.0,
       null,
       null,
+      null,
       null
     ],
     "HEATER B RANGE": [
@@ -1201388,6 +1201403,7 @@
       0,
       null,
       null,
+      null,
       null
     ],
     "HEATER B PERCENT": [
@@ -1202144,6 +1202160,7 @@
       0.0,
       0.0,
       0.0,
+      null,
       null,
       null,
       null
