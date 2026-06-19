@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T09:55:26",
+  "timestamp": "2026-06-19T09:56:36",
   "flow": 0.0,
   "temperatures": {
     "A": null,
@@ -24,5 +24,5 @@
       "PERCENT": null
     }
   },
-  "last_error": "instrument_connect_or_read_failed: No serial connections found; no_temperature_channels_read"
+  "last_error": "github_sync_failed: Invalid request.\n\n\"sha\" wasn't supplied.: 422 {\"message\": \"Invalid request.\\n\\n\\\"sha\\\" wasn't supplied.\", \"documentation_url\": \"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\", \"status\": \"422\"}"
 }
