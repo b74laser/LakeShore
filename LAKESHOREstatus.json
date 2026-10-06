@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-10-06T15:27:03",
-  "flow": 0.0,
+  "timestamp": "2026-10-06T15:30:43",
+  "flow": 0.2,
   "temperatures": {
-    "A": 294.751,
-    "B": 295.088,
-    "C": 295.033,
-    "D": 294.712,
-    "D1": 294.712,
+    "A": 294.742,
+    "B": 295.086,
+    "C": 295.03,
+    "D": 294.71,
+    "D1": 294.71,
     "D2": 295.25,
-    "D3": 295.008,
+    "D3": 295.006,
     "D4": 0.0,
     "D5": 0.0
   },
@@ -26,5 +26,5 @@
       "INPUT": "B"
     }
   },
-  "last_error": ""
+  "last_error": "github_sync_failed: Invalid request.\n\n\"sha\" wasn't supplied.: 422 {\"message\": \"Invalid request.\\n\\n\\\"sha\\\" wasn't supplied.\", \"documentation_url\": \"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\", \"status\": \"422\"}"
 }
