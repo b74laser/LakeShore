@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-08T09:28:32",
-  "unix_time": 1791466112.329378,
+  "timestamp": "2026-10-08T09:29:43",
+  "unix_time": 1791466183.270628,
   "flow": 0.0,
   "temperatures": {
     "A": 294.641,
@@ -28,10 +28,10 @@
     }
   },
   "alicat_a": {
-    "flow": 0.008,
+    "flow": 0.007,
     "setpoint": 5.0,
     "pressure_psia": 46.76,
-    "temperature_c": 33.99,
+    "temperature_c": 33.97,
     "volumetric_flow_lpm": 0.002,
     "gas": "He"
   }
