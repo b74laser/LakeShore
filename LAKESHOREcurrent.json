@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-20T20:01:59",
-  "unix_time": 1792540919.330407,
+  "timestamp": "2026-10-20T20:03:10",
+  "unix_time": 1792540990.002317,
   "flow": 0.0,
   "temperatures": {
     "A": 294.625,
     "B": 294.907,
-    "C": 294.844,
+    "C": 294.846,
     "D": 294.629,
     "D1": 294.629,
     "D2": 295.164,
@@ -31,7 +31,7 @@
     "flow": 0.006,
     "setpoint": 5.0,
     "pressure_psia": 42.54,
-    "temperature_c": 34.23,
+    "temperature_c": 34.21,
     "volumetric_flow_lpm": 0.002,
     "gas": "He"
   }
