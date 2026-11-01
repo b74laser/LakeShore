@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-01T05:23:17",
-  "unix_time": 1793528597.819647,
-  "flow": 0.14,
+  "timestamp": "2026-11-01T05:24:32",
+  "unix_time": 1793528672.650548,
+  "flow": 0.0,
   "temperatures": {
     "A": 294.584,
     "B": 294.795,
-    "C": 294.904,
+    "C": 294.902,
     "D": 294.617,
     "D1": 294.617,
     "D2": 295.199,
@@ -30,8 +30,8 @@
   "alicat_a": {
     "flow": 0.005,
     "setpoint": 5.0,
-    "pressure_psia": 39.17,
-    "temperature_c": 34.07,
+    "pressure_psia": 39.18,
+    "temperature_c": 34.05,
     "volumetric_flow_lpm": 0.002,
     "gas": "He"
   }
