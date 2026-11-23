@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-23T17:11:23",
-  "unix_time": 1795471883.083352,
-  "flow": 0.0,
+  "timestamp": "2026-11-23T17:12:37",
+  "unix_time": 1795471957.476292,
+  "flow": 0.02,
   "temperatures": {
     "A": 294.787,
     "B": 294.973,
@@ -28,7 +28,7 @@
     }
   },
   "alicat_a": {
-    "flow": 0.005,
+    "flow": 0.006,
     "setpoint": 5.0,
     "pressure_psia": 59.31,
     "temperature_c": 34.23,
